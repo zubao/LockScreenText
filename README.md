@@ -1,0 +1,1 @@
+这是一个用于Android手机上面，锁屏页文字解锁提示动画，主要用到了TextView 的渐变效果，通过设置其Shader（LinearGradient） 实现
